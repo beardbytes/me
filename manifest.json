@@ -1,6 +1,6 @@
 {
-  "short_name": "Portfolio app",
-  "name": "Portfolio app made with react as part of 'weekend projects' initiative",
+  "short_name": "Portfolio builder app",
+  "name": "Portfolio builder app made with react as part of 'crashing weekend' initiative",
   "icons": [
     {
       "src": "favicon.ico",
