@@ -2,7 +2,7 @@
   "name": "portfolio-builder-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://beardbytes.github.io/me",
+  "homepage": "https://beardbytes.github.io/me/",
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
