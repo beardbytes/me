@@ -1790,3 +1790,13 @@
   content: "\eb1a";
 }
 
+.icon-codechef:before {
+  content: url('https://api.iconify.design/simple-icons:codechef.svg?height=24');
+  vertical-align: -0.125em;
+}
+
+.icon-hackerrank:before {
+  content: url('https://api.iconify.design/simple-icons:hackerrank.svg?height=24');
+  vertical-align: -0.125em;
+}
+
