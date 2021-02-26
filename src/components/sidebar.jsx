@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.facebook.com/adi.maheshwari.3/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/Adityam41279" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.linkedin.com/in/aditya-maheshwari-923865124/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/maverick12345678" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://github.com/beardbytes" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://www.codechef.com/users/adi_m1997" target="blank" rel="noopener noreferrer"><i className="icon-codechef"></i></a></li>
                 <li><a href="https://www.hackerrank.com/beardbytes" target="blank" rel="noopener noreferrer"><i className="icon-hackerrank"></i></a></li>
               </ul>
