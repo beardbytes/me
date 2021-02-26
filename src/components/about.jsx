@@ -13,7 +13,7 @@ export default class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About Us</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p>I am a computer grad student from MIT World Peace University .I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
+                                            <p>I am a computer science undergraduate student from MIT World Peace University. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
                                             <p>I have recently started contributing to open source enviornment . I am open to any new ideas to work on .</p>
                                         </div>
                                     </div>
@@ -32,13 +32,28 @@ export default class About extends Component {
                         </div>
                         <div className="row row-pt-md">
                             <div className="col-md-4 text-center animate-box">
+                                <div className="services color-3">
+                                    <span className="icon">
+                                        <i className="icon-phone3" />
+                                    </span>
+                                    <div className="desc">
+                                        <h3>Machine Learning</h3>
+                                        <p>I have a keen knowledge of different supervised and unsupervised algorithms.
+                                        I have worked with decision tress, SVM, Logistic Regression.
+                                        I have read two books on Machine learning.
+                                            <li>Introduction to ML using Python </li>
+                                            <li>Mathematics for Machine Learning</li></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 text-center animate-box">
                                 <div className="services color-1">
                                     <span className="icon">
                                         <i className="icon-bulb" />
                                     </span>
                                     <div className="desc">
                                         <h3>Web Development </h3>
-                                        <p>I have experience building websites usingJavaScript,React,HTML,CSS</p>
+                                        <p>I have experience building websites using JavaScript,React,HTML,CSS. I have a working knowledge of express and node</p>
                                     </div>
                                 </div>
                             </div>
@@ -49,56 +64,24 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Data Structures & Algorithms</h3>
-                                        <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA . I have started competitive coding</p>
+                                        <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA.
+                                            I have been doing competitive coding for some time now.</p>
                                     </div>
                                 </div>
                             </div>
+
                             <div className="col-md-4 text-center animate-box">
-                                <div className="services color-5">
+                                <div className="services color-2">
                                     <span className="icon">
                                         <i className="icon-data" />
                                     </span>
                                     <div className="desc">
                                         <h3>Dev Ops</h3>
-                                        <p>I am pursuing my internship with DevOps team at RedCarpet and working with tools like BitBucket, Docker, Sentry</p>
+                                        <p>Docker, Sentry, Postman </p>
                                     </div>
                                 </div>
                             </div>
-                            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
-                </div>
-                </div>
-            </div>
-            */}
+
                         </div>
                     </div>
                 </section>
